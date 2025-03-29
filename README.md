@@ -96,8 +96,6 @@ This project automates the classification of **CIBC quarterly financial reports*
   - Aditi Pithva  
   - Balavishak Mohandas  
   - Daivik Pelathur  
-  - Kishan Patel  
-  - Maitriben Balar  
 
 ## 📜 References
 - [CIBC Quarterly Reports](https://www.cibc.com/en/about-cibc/investor-relations/quarterly-results.html)
