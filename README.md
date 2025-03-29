@@ -47,29 +47,6 @@ This project automates the classification of **CIBC quarterly financial reports*
 - **Advanced Models:** Explore **XGBoost or Neural Networks** for enhanced accuracy.
 - **Chatbot Enhancements:** Improve chatbot with **ML-driven responses**.
 
-## 📂 Project Structure
-```
-├── data/
-│   ├── raw_reports/        # Original PDF reports
-│   ├── cleaned_text/       # Preprocessed text files
-│
-├── models/
-│   ├── random_forest.pkl   # Trained Random Forest Model
-│   ├── logistic_reg.pkl    # Trained Logistic Regression Model
-│
-├── scripts/
-│   ├── data_preprocessing.py  # Cleaning and preprocessing
-│   ├── feature_extraction.py  # TF-IDF & Word2Vec processing
-│   ├── model_training.py      # Model training and evaluation
-│   ├── chatbot.py             # Chatbot implementation
-│
-├── notebooks/
-│   ├── EDA.ipynb          # Exploratory Data Analysis
-│   ├── Model_Training.ipynb  # Model training insights
-│
-├── README.md              # Project documentation
-├── requirements.txt       # Required Python libraries
-```
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
